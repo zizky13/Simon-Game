@@ -8,3 +8,4 @@ Basically, to play this game you just need to see which button that blinks. Then
 # Link
 
 To play, just head over to this link:
+https://simon-game-lake-nine.vercel.app/
